@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <proxyAdress>192.168.0.110</proxyAdress>
+  <proxyPort>2503</proxyPort>
+  <httpPort>2502</httpPort>
+  <userName>admin</userName>
+  <passWord>admin</passWord>
+  <isProxy>false</isProxy>
+  <ipServer>192.168.0.105</ipServer>
+  <portServer>8001</portServer>
+  <hostserver>http://14.162.201.86:8008/</hostserver>
+</Config>

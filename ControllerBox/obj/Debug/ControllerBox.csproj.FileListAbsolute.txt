@@ -1,0 +1,148 @@
+E:\Company new\ControlBox\TranferData\bin\Debug\ControllerBox.exe.config
+E:\Company new\ControlBox\TranferData\bin\Debug\ControllerBox.exe
+E:\Company new\ControlBox\TranferData\bin\Debug\ControllerBox.pdb
+E:\Company new\ControlBox\TranferData\bin\Debug\DZ.MediaPlayer.Vlc.dll
+E:\Company new\ControlBox\TranferData\bin\Debug\DZ.MediaPlayer.Vlc.WindowsForms.dll
+E:\Company new\ControlBox\TranferData\bin\Debug\Common.Logging.dll
+E:\Company new\ControlBox\TranferData\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.DataConfig.frmConfigDatabase.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.DisplayCamera.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmAddUser.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmChangePassword.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmChiNhanh.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmChiNhanhAdd.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmControlBox.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmLogin.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmMailFrom.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmMailManager.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmMatrixDisplay.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmQuanlytaikhoan.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.frmThietLapQuyen.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.GUI.test.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.Main.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.Properties.Resources.resources
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.csproj.GenerateResource.Cache
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.exe
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.pdb
+E:\Company new\ControlBox\TranferData\obj\Debug\ControllerBox.csprojResolveAssemblyReference.cache
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\ControllerBox.exe
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\ControllerBox.exe.config
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\ControllerBox.pdb
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\DZ.MediaPlayer.Vlc.dll
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\DZ.MediaPlayer.Vlc.WindowsForms.dll
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\Common.Logging.dll
+E:\Company new\ControlBox\v2-Service_send_logs\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.DataConfig.frmConfigDatabase.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.DisplayCamera.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmAddUser.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmChangePassword.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmChiNhanh.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmChiNhanhAdd.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmControlBox.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmLogin.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmMailFrom.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmMailManager.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmMatrixDisplay.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmQuanlytaikhoan.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmThietLapQuyen.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.test.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.Main.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.Properties.Resources.resources
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.csproj.GenerateResource.Cache
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.exe
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.pdb
+E:\Company new\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.csprojResolveAssemblyReference.cache
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.DataConfig.frmConfigDatabase.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.DisplayCamera.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmAddUser.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmChangePassword.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmChiNhanh.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmChiNhanhAdd.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmControlBox.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmLogin.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmMailFrom.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmMailManager.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmMatrixDisplay.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmQuanlytaikhoan.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.frmThietLapQuyen.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.GUI.test.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.Main.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.Properties.Resources.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.csproj.GenerateResource.Cache
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.csprojResolveAssemblyReference.cache
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\ControllerBox.exe.config
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\ControllerBox.exe
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\ControllerBox.pdb
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\Common.dll
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\DZ.MediaPlayer.Vlc.dll
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\DZ.MediaPlayer.Vlc.WindowsForms.dll
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\Common.Logging.dll
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\ISEAS\ControlBox\v2-Service_send_logs\bin\Debug\Common.pdb
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.exe
+E:\ISEAS\ControlBox\v2-Service_send_logs\obj\Debug\ControllerBox.pdb
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\bin\Debug\ControllerBox.exe
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\bin\Debug\Config.xml
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\bin\Debug\ControllerBox.exe.config
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\bin\Debug\ControllerBox.pdb
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\bin\Debug\Common.dll
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\bin\Debug\Common.pdb
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.csprojResolveAssemblyReference.cache
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.DataConfig.frmConfigDatabase.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmAddUser.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmBranchManage.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmChangePassword.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmBranch.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmBranchAdd.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmControlBox.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmEmployee.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmSecurity.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmTestCamera.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmLogin.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmMailFrom.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmMailManager.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmMatrixDisplay.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmUserManage.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmThietLapQuyen.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmImageCamera.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.test.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.Main.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.Properties.Resources.resources
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.csproj.GenerateResource.Cache
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.exe
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.pdb
+E:\ISEAS\ControlBox\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmSearchLogs.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\ControllerBox.exe
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\Config.xml
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\Resources\Sound\beepspark.wav
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\Resources\Sound\warning.wav
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\ControllerBox.exe.config
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\ControllerBox.pdb
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\Common.dll
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\XCtrls.dll
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\Common.pdb
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.csprojResolveAssemblyReference.cache
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.DataConfig.frmConfigDatabase.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmAddUser.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmBranchManage.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmChangePassword.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmBranch.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmControlBox.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmEmployee.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmMatrixDisplayAuto.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmSearchLogs.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmSecurity.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmTestCamera.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmLogin.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmMailFrom.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmMailManager.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmUserManage.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmThietLapQuyen.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.frmImageCamera.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.GUI.test.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.Main.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.Properties.Resources.resources
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.csproj.GenerateResource.Cache
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.exe
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\obj\Debug\ControllerBox.pdb
+E:\ISEAS\ControlBox\Software\v2-Service_send_logs\ControllerBox\bin\Debug\SeaMatrixTechnology.exe.config

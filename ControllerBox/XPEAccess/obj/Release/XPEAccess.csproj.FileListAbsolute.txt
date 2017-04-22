@@ -1,0 +1,4 @@
+C:\Data\Solutions\Go\TransactionQuery\Code\Source code\CIM\XPEAccess\bin\Release\XPEAccess.dll
+C:\Data\Solutions\Go\TransactionQuery\Code\Source code\CIM\XPEAccess\bin\Release\XPEAccess.pdb
+C:\Data\Solutions\Go\TransactionQuery\Code\Source code\CIM\XPEAccess\obj\Release\XPEAccess.dll
+C:\Data\Solutions\Go\TransactionQuery\Code\Source code\CIM\XPEAccess\obj\Release\XPEAccess.pdb
